@@ -2,7 +2,7 @@
   {
     "package": "tinyeval",
     "url": "https://github.com/evalship-hq/tinyeval",
-    "subdir": "packages/r",
-    "branch": "r-universe"
+    "branch": "r-universe",
+    "subdir": "packages/r"
   }
 ]
